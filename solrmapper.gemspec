@@ -4,7 +4,7 @@ require "solrmapper/version"
 
 Gem::Specification.new do |s|
   s.name        = "SolrMapper"
-  s.version     = Solrmapper::VERSION
+  s.version     = SolrMapper::VERSION
   s.authors     = ["Nick Zadrozny"]
   s.email       = ["nick@onemorecloud.com"]
   s.homepage    = "http://github.com/nz/solrmapper"

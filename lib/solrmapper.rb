@@ -1,5 +1,5 @@
 require "solrmapper/version"
 
-module Solrmapper
+module SolrMapper
   # Your code goes here...
 end
